@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaffucK 
+- 👋 Hi, I’m @Shaffak
 - 👀 I’m interested in client side and server sides programming.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript projects
